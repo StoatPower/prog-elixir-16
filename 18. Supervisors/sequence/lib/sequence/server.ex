@@ -1,5 +1,6 @@
 defmodule Sequence.Server do
   use GenServer
+  alias Sequence.Stash
 
   #####
   # External API
@@ -19,8 +20,8 @@ defmodule Sequence.Server do
   #####
   # GenServer Implementation
 
-  def init(initial_number) do
-    { :ok, initial_number }
+  def init(_) do
+    { :ok, Stash.get() }
   end
 
   def handle_call(:next_number, _from, current_number) do
@@ -33,6 +34,10 @@ defmodule Sequence.Server do
 
   def handle_cast({:increment_number, delta}, current_number) do
     { :noreply, current_number + delta }
+  end
+
+  def terminate(_reason, current_number) do
+    Stash.update(current_number)
   end
   
   def format_status(_reason, [ _pdict, state ]) do
