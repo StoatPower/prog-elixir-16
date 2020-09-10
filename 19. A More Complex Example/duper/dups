@@ -1,0 +1,974 @@
+Compiling 1 file (.ex)
+Results:
+
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/List.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/List.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/List.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Maybe.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Maybe.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Maybe.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/FailingTests.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/FailingTests.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/Shrink.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/Shrink.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/Shrink.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Keyed.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Keyed.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Keyed.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Fuzz.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Fuzz.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Event.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Event.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/Bench/Native.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/Bench/Native.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/Bench/Native.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Process.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Process.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Process.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Expectation.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Expectation.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Date.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Date.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Date.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Platform.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Platform.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Platform.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Runner.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Runner.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Attributes.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Attributes.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Attributes.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Descendant.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Descendant.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Defs.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Defs.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Defs.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/elm-test/3.1.0/tests/package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/documentation.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/documentation.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/.eslintrc",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/.eslintrc",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/.eslintrc"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-ToString.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-ToString.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Debug.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Debug.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Debug.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/List.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/List.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/List.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/run-tests.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/run-tests.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/run-tests.sh"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Descendant.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Descendant.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-InternalTypes.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-InternalTypes.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/Queries.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/Queries.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/ToString.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/ToString.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/FuzzerTests.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/FuzzerTests.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Result.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Result.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Result.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestMain.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestMain.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestMain.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query-Internal.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query-Internal.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/bounds.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/bounds.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/bounds.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestCases/Lazy.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestCases/Lazy.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestCases/Lazy.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Fuzz.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Fuzz.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Debug.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Debug.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Debug.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/Dieharder.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/Dieharder.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/Dieharder.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Native/HtmlAsJson.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Native/HtmlAsJson.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/RoseTree.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/RoseTree.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/exact-dependencies.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/exact-dependencies.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Lazy.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Lazy.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Lazy.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/List.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/List.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/List.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query-Internal.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query-Internal.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Expectation.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Expectation.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/dieharder-core.log",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/dieharder-core.log",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/dieharder-core.log"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/InternalTypes.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/InternalTypes.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/lazy/2.0.0/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Equality.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Equality.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Equality.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Markdown.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Markdown.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Time.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Time.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Time.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Array.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Array.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Array.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Basics.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Basics.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Basics.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Bitwise.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Bitwise.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Bitwise.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/Helpers.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/Helpers.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/shrink/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/lazy-list/1.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/shrink/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/lazy-list/1.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/shrink/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/lazy-list/1.0.0/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-query/3.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/properties-vs-attributes.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/properties-vs-attributes.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/properties-vs-attributes.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/src/Native/Lazy.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/src/Native/Lazy.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/lazy/2.0.0/src/Native/Lazy.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/String.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/String.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/String.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Example.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Example.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/String.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/String.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/String.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/src/ElmHtml/Query.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-query/3.0.0/src/ElmHtml/Query.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/rewind.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/rewind.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/rewind.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/VirtualDom.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/VirtualDom.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/VirtualDom.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/Main.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/Main.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Sub.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Sub.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Sub.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/Native/TestHelpers.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/Native/TestHelpers.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/Native/TestHelpers.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Json.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Json.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Json.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-History.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Maybe.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Maybe.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Maybe.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Tests.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Tests.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz-Internal.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz-Internal.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/Descendant.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/Descendant.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Decode.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Expect.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Expect.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/src/Random/Pcg.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/src/Random/Pcg.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Overlay.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Overlay.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Overlay.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/lazy-list/1.0.0/src/Lazy/List.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/lazy-list/1.0.0/src/Lazy/List.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/lazy-list/1.0.0/src/Lazy/List.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Regex.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Regex.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Regex.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Metadata.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Metadata.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Metadata.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Debug.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Debug.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Debug.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/documentation.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/documentation.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/documentation.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/documentation.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/.travis.yml"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/lazy-list/1.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/lazy-list/1.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/lazy-list/1.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Regex.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Cmd.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Fuzz/Internal.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Fuzz/Internal.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/RoseTree.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/RoseTree.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Helpers.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/Shrink.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/Shrink.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/Shrink.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/ExampleApp.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/ExampleApp.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Bitwise.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Bitwise.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Bitwise.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/run-tests.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/elm-test/3.1.0/tests/run-tests.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/run-tests.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Bitwise.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/CONTRIBUTING.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/CONTRIBUTING.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/CONTRIBUTING.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Html-Inert.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Html-Inert.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Constants.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Constants.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector-Internal.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector-Internal.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/History.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/History.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/History.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-InternalTypes.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-InternalTypes.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestHelpers.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestHelpers.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/TestHelpers.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Event.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Event.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/String.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/String.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/String.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Expect.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Expect.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/List.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Dict.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Dict.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Dict.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Tests.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Tests.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/Debug.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/Debug.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/Native/Debug.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Float.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Float.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/fastForward.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/fastForward.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/fastForward.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Task.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/Snippets.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/Snippets.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg-Interop.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg-Interop.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/4.0.2/Random-Pcg-Interop.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Bitwise.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Bitwise.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Bitwise.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/filterTest.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/filterTest.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/filterTest.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Result.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Result.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Result.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Dict.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Query.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Debug.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/listTest.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/listTest.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/listTest.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Helpers.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Helpers.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz-Internal.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz-Internal.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/shrink/2.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Tuple.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Tuple.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Tuple.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Cmd.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Cmd.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform/Cmd.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Report.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Encode.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Encode.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Encode.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Task.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Task.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Task.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/Lazy.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/Lazy.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/Lazy.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/RunnerTests.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/RunnerTests.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Attributes.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/prep-bench.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/prep-bench.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/prep-bench.sh"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Basics.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/.travis.yml"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Report.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Report.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Report.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/lazy/2.0.0/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/Lazy-List.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/Lazy-List.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/Lazy-List.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/src/Random/Pcg/Interop.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/src/Random/Pcg/Interop.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/src/Random/Pcg/Interop.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector-Internal.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector-Internal.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Main.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Main.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Main.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Runner/String.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Runner/String.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Runner/Log.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Runner/Log.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Example.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Example.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/shrink/2.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/shrink/2.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/shrink/2.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Constants.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Constants.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/ElmHtml-Query.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/ElmHtml-Query.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Set.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Set.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Set.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Internal.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Internal.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Set.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Set.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Set.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Expando.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/port/Test.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/port/Test.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/port/Test.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/String.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Selector.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Selector.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/port/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/port/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/port/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Tuple.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Message.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Message.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Main.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/Main.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Helpers.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Helpers.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/lazy/2.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/lazy-list/1.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/lazy-list/1.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/lazy-list/1.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Helpers.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Helpers.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Helpers.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Descendant.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Descendant.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/.gitignore",
+ "C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/rtfeldman/html-test-runner/2.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-query/3.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/run-tests.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/run-tests.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/run-tests.sh"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Helpers.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Helpers.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Event.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Event.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Internal.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Internal.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Query/Internal.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Query/Internal.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Expectation.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Expectation.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Keyed.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/changelog.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/changelog.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/changelog.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Random.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Random.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Random.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/.travis.yml"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/port/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/port/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/port/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/elm-test/3.1.0/tests/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/tests/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/Native/Benchmark.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/Native/Benchmark.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/Native/Benchmark.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Lazy.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Set.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/src/Lazy.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/src/Lazy.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/lazy/2.0.0/src/Lazy.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Util.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Util.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html-Events.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Array.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Array.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Array.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/shrink/2.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/shrink/2.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/shrink/2.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/benchmarks/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform-Sub.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Tests.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Tests.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/tests/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/lazy-list/1.0.0/documentation.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/lazy-list/1.0.0/documentation.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/examples/.travis.yml"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/Main.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/Main.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/shrink/2.0.0/documentation.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/shrink/2.0.0/documentation.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/Lazy.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/Lazy.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/lazy/2.0.0/Lazy.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Expando.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Expando.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/src/VirtualDom/Expando.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/lazy/2.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/lazy/2.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/lazy/2.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Markdown.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-Markdown.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/dieharder-pcg.log",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/dieharder-pcg.log",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/dieharder-pcg.log"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Defs.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Defs.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Defs.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Expect.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Expect.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Basics.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Basics.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Basics.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/Bencher.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/Bencher.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/Bencher.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/independentSeedTest.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/independentSeedTest.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/independentSeedTest.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/elm-test/3.1.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Char.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Char.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Char.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Time.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Time.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Time.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-ToString.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/ElmHtml-ToString.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/compile.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/compile.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/compile.sh"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Fuzz.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Fuzz.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-query/3.0.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Platform.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Metadata.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Dict.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Dict.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Dict.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/ElmHtml-Query.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-query/3.0.0/ElmHtml-Query.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Regex.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Regex.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Regex.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Platform.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/Tests.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/Tests.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Date.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Date.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Date.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Html/Inert.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Html/Inert.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/Lazy-List.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/Lazy-List.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/lazy-list/1.0.0/Lazy-List.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Debug.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Fuzz.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Fuzz.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/src/Html.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/src/Html.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Json-Encode.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Message.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Message.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Test-Html-Selector.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/RoseTree.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/RoseTree.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Maybe.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Fuzz.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/virtual-dom/2.0.4/VirtualDom-Overlay.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/.travis.yml"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Message.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Message.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/LICENSE",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/LICENSE"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Char.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/graph.dat",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-in-elm/5.0.0/graph.dat"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Json.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Json.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Json.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-query/3.0.0/README.md",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-query/3.0.0/README.md"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Util.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Util.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/3.1.0/Util.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Result.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/.gitignore",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/.gitignore"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Random.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/html/2.0.0/Html.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Scheduler.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Scheduler.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Scheduler.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/TestExample.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/TestExample.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Html-Inert.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/eeue56/elm-html-test/4.1.0/Html-Inert.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Time.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/Native/HtmlAsJson.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/tests/Native/HtmlAsJson.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Internal.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Internal.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/documentation.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/documentation.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Events.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Events.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/html/2.0.0/src/Html/Events.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg-Interop.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/5.0.0/Random-Pcg-Interop.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/mgold/elm-random-pcg/4.0.2/Random-Pcg-Interop.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Query.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Query.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Utils.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Utils.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Utils.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/Markdown.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/Markdown.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Array.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Array.js",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Native/Array.js"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.travis.yml",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/virtual-dom/2.0.4/.travis.yml"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Array.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/shrink/2.0.0/src/Shrink.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-community/shrink/2.0.0/src/Shrink.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/shrink/2.0.0/src/Shrink.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Regex.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Regex.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Regex.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Color.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Char.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Char.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Char.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/Constants.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/src/ElmHtml/Constants.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Decode.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Decode.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/src/Json/Decode.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/run-benchmarks.html",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/benchmark/run-benchmarks.html",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/benchmark/run-benchmarks.html"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Process.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/elm-package.json",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-in-elm/5.0.0/elm-package.json"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-lang/core/5.1.1/Date.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Runner.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-community/elm-test/4.1.1/src/Test/Runner.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Selector/Internal.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/src/Test/Html/Selector/Internal.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Runner.elmo",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Test-Runner.elmo"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Char.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Char.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/Char.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/Events.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/eeue56/elm-html-test/4.1.0/tests/Events.elm"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Util.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/4.1.1/Util.elmi",
+ "C:\\Projects\\elm-proj4/elm-stuff/build-artifacts/0.18.0/elm-community/elm-test/3.1.0/Util.elmi"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/elm-io.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/mgold/elm-random-pcg/4.0.2/test/dieharder/elm-io.sh",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/mgold/elm-random-pcg/5.0.0/test/dieharder/elm-io.sh"]
+["C:\\Projects\\elm-proj4/tests/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/CodeGen.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/CodeGen.elm",
+ "C:\\Projects\\elm-proj4/elm-stuff/generated-code/elm-community/elm-test/elm-stuff/packages/elm-lang/core/5.1.1/tests/Test/CodeGen.elm"]
